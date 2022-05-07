@@ -62,10 +62,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 
 
-<<<<<<< HEAD
+
+
 ## Contact
-Contact me through my email or visit my GitHub: [email](mailto:hassanmahdi58@gmail.com) , [GitHub](https://github.com/hassanmahdi58)<br />
-=======
-## Questions
-✉️ Contact me with any questions: [email](mailto:hassanmahdi58@gmail.com) , [GitHub](https://github.com/hassanmahdi58)<br />
->>>>>>> f7efb4834b5684a1cdc252612343db58bd9e7464
+Contact me with any questions: [email](mailto:hassanmahdi58@gmail.com) , [GitHub](https://github.com/hassanmahdi58)<br />
+
