@@ -56,7 +56,16 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Mock Up
 
 
+![Screenshot (102)](https://user-images.githubusercontent.com/94930434/167272478-42897fc1-694e-4add-b7cb-d62413b6946b.png)
+![Screenshot (103)](https://user-images.githubusercontent.com/94930434/167272482-f209c4df-54c7-4635-901e-f55b0def566a.png)
+![Screenshot (104)](https://user-images.githubusercontent.com/94930434/167272483-531ee387-308c-456b-9e99-69f768aa1f55.png)
 
 
+
+<<<<<<< HEAD
 ## Contact
 Contact me through my email or visit my GitHub: [email](mailto:hassanmahdi58@gmail.com) , [GitHub](https://github.com/hassanmahdi58)<br />
+=======
+## Questions
+✉️ Contact me with any questions: [email](mailto:hassanmahdi58@gmail.com) , [GitHub](https://github.com/hassanmahdi58)<br />
+>>>>>>> f7efb4834b5684a1cdc252612343db58bd9e7464
