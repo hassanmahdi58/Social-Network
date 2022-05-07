@@ -45,7 +45,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Mock Up](#Mock-Up)
-- [Questions](#questions)
+- [Contact](#contact)
 
 ## Installation  
   
@@ -58,5 +58,5 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 
 
-## Questions
-✉️ Contact me with any questions: [email](mailto:hassanmahdi58@gmail.com) , [GitHub](https://github.com/hassanmahdi58)<br />
+## Contact
+Contact me through my email or visit my GitHub: [email](mailto:hassanmahdi58@gmail.com) , [GitHub](https://github.com/hassanmahdi58)<br />
