@@ -56,6 +56,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Mock Up
 
 
+![Screenshot (102)](https://user-images.githubusercontent.com/94930434/167272478-42897fc1-694e-4add-b7cb-d62413b6946b.png)
+![Screenshot (103)](https://user-images.githubusercontent.com/94930434/167272482-f209c4df-54c7-4635-901e-f55b0def566a.png)
+![Screenshot (104)](https://user-images.githubusercontent.com/94930434/167272483-531ee387-308c-456b-9e99-69f768aa1f55.png)
+
 
 
 ## Questions
